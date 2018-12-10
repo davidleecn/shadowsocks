@@ -4,14 +4,14 @@ export PATH
 #=================================================================#
 #   System Required:  CentOS 6+, Debian 7+, Ubuntu 12+            #
 #   Description: One click Install Shadowsocks-Python server      #
-#   Author: gofly666 <http://www.gofly666.com/>                   #
+#   Author: wilson                                              #
 #=================================================================#
 
 clear
 echo
 echo "#############################################################"
 echo "# One click Install Shadowsocks-Python server               #"                 
-echo "# Author: gofly666 <http://www.gofly666.com/>               #"  
+echo "# Author: wilson                                            #"  
 echo "#############################################################"
 echo
 
